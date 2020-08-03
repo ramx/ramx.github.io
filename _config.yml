@@ -23,7 +23,7 @@ email: ramshankaryadav@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
  Ram Shankar Yadav's official site/blog.
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://ramshankaryadav.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ramshankaryadav
 github_username:  ramx
 linkedin_username: ramshankaryadav
